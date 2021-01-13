@@ -1,4 +1,4 @@
-#!/bin/python
+#!/bin/python3
 import sys
 import random
 
@@ -46,5 +46,5 @@ if __name__ == "__main__":
 
 
     else:
-        print("Please provide a word.")
+        print("The argument needs to be pure text.")
         
